@@ -1,3 +1,5 @@
+![MainImage](https://team-washer.github.io/main.png)
+
 ## 🧺 Washer 사용자 가이드북
 
 #### iOS에 한해 Can't find variable: Notification 이 발생되는 경우 하단을 참조하세요.
